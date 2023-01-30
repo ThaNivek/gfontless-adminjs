@@ -23,7 +23,6 @@ const Component = (props) => {
 
   return (
     <Provider store={store}>
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700" type="text/css" />
       <BrowserRouter>
         <StyleSheetManager target={frameContext.document.head}>
           <ThemeProvider theme={theme}>
