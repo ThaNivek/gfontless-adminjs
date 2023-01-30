@@ -1,5 +1,7 @@
 # AdminJS
 
+*THIS VERSION OF ADMINJS LACKS ANY GOOGLE FONTS*
+
 [AdminJS](https://adminjs.co/) is an automatic admin interface that can be plugged into your application. You, as a developer, provide database models (like posts, comments, stores, products or whatever else your application uses), and AdminJS generates UI which allows you (or other trusted users) to manage content.
 
 Inspired by: [django admin](https://docs.djangoproject.com), [rails admin](https://github.com/sferik/rails_admin) and [active admin](https://activeadmin.info/).
